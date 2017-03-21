@@ -1,0 +1,22 @@
+{
+  "ID":{
+    "email_signUp": "in_identifier",
+    "password": "in_pass",
+    "firstName": "in_first_name",
+    "lastName": "in_last_name",
+    "phone": "in_phone"
+  },
+  "CSS":{
+    "signUpFreeBtn": "a.fill.md-button.md-ink-ripple",
+    "signUpFormSubmit": "button[type='submit']",
+    "createLeague": "button p",
+    "createLeague1": "Create a league",
+    "createSeason1": "Create Season",
+    "createSeason": "button span",
+    "addSeason": "Add"
+  },
+  "MODEL":{
+    "leagueName": "model.league.name",
+    "leagueUrl": "model.league.slug"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "signUp" : {
+    "emailPrefix": "jaityagi2k8+",
+    "emailSuffix": "@gmail.com",
+    "password": "wooterwordpass",
+    "firstName": "jai",
+    "lastName": "tyagi"
+  },
+  "league": {
+    "leagueName": "NBA2K17"
+  }
+}

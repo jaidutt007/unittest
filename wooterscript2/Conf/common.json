@@ -1,0 +1,5 @@
+{
+  "server":"https://wooter.co/",
+  "browser_wait": 10000,
+  "browser_waitExp": 2000
+}

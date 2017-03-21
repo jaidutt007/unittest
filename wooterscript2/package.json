@@ -1,0 +1,21 @@
+{
+  "name": "testwooter",
+  "version": "0.0.0",
+  "description": "Test the wooter app",
+  "main": "app.js",
+  "author": {
+    "name": "Jai",
+    "email": ""
+  },
+  "devDependencies": {
+    "jasmine-console-reporter": "^1.2.7",
+    "jasmine-reporters": "2.2.0",
+    "protractor": "^5.1.0",
+    "protractor-jasmine2-html-reporter": "0.0.7"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "promise": "^7.0.4",
+    "webdriver-manager": "^12.0.1"
+  }
+}
